@@ -1,22 +1,21 @@
 # PROG 01: Crunch Time
 
-Briefly describe your app here.
+A visually appealing app that calculates number of calories burned for certain excerises. 
 
 ## Authors
 
-FirstName LastName ([your_email@berkeley.edu](mailto:your_email@berkeley.edu))
+Brian Nguyen EMAIL: brian.ngueyn@berkeley.edu
 
 ## Demo Video
 
-See [your demo video title here] (https://link_to_your_video)
+See DEMO VIDEO ( https://youtu.be/llzCJ8neXz4)
 
 ## Screenshots
 
-<img src="screenshots/main.png" height="400" alt="Screenshot"/>
+<img src="screenshots/crunch.png" height="400" alt="Screenshot"/>
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Any other support
+support from SMITA 
 
 *Feel free to enhance your README. For Markdown syntax, see [the GitHub Guides](https://guides.github.com/features/mastering-markdown/). Remove this line in your submission.*
