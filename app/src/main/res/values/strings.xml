@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Crunch</string>
+    <string name="action_settings">Settings</string>
+
+    resources>
+    <string-array name="excerise_array">
+        <item>PUSH UP</item>
+        <item>SIT UP</item>
+        <item>SQUATS</item>
+        <item>LEG LIFT</item>
+        <item>PLANK</item>
+        <item>JUMPING JACK</item>
+        <item>PULL UP</item>
+        <item>CYCLING</item>
+        <item>WALKING</item>
+        <item>JOGGING</item>
+        <item>SWIMMING Up</item>
+        <item>STAIR CLIMBING</item>
+    </string-array>
+
+</resources>
+
